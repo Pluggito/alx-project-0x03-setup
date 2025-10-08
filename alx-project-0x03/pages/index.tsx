@@ -6,6 +6,7 @@ interface PageRouteProps {
 }
 
 export default function Home() {
+
   const router = useRouter()
 
   // Imeperative routing with useRouter
